@@ -12,4 +12,4 @@ $  ld -s -o hello hello.o
 
 How to run: 
 
-$  ./hello  \\
+$  ./hello
